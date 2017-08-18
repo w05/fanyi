@@ -78,12 +78,6 @@ body{
 .carousel-indicators li.active{
     background-color: orangered;
 }
-.carousel-control.right{
-    right: 37px;
-}
-.carousel-control.left{
-    left: 37px;
-}
 .banner{
     padding: 0;
 }
