@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="662fa47d-e438-4179-92db-769d82e9c29d" name="默认的" comment="" />
+    <list default="true" id="662fa47d-e438-4179-92db-769d82e9c29d" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manager/content_post.html" afterPath="$PROJECT_DIR$/manager/content_post.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,11 +16,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="257" column="25" lean-forward="true" selection-start-line="257" selection-start-column="25" selection-end-line="257" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="254" column="48" lean-forward="true" selection-start-line="254" selection-start-column="48" selection-end-line="254" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="236" column="14" lean-forward="true" selection-start-line="236" selection-start-column="14" selection-end-line="236" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content_post.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manager/content_post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -37,6 +59,7 @@
     <findStrings>
       <find>http</find>
       <find>images</find>
+      <find>app-ba</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -49,11 +72,11 @@
         <option value="$PROJECT_DIR$/manager/css/animate.css" />
         <option value="$PROJECT_DIR$/manager/index.html" />
         <option value="$PROJECT_DIR$/manager/content.html" />
-        <option value="$PROJECT_DIR$/manager/content_post.html" />
         <option value="$PROJECT_DIR$/manager/tag.html" />
         <option value="$PROJECT_DIR$/manager/uesr_search.html" />
         <option value="$PROJECT_DIR$/manager/user_list.html" />
         <option value="$PROJECT_DIR$/home/index.html" />
+        <option value="$PROJECT_DIR$/manager/content_post.html" />
       </list>
     </option>
   </component>
@@ -101,17 +124,6 @@
             <path>
               <item name="fanyi" type="b2602c69:ProjectViewProjectNode" />
               <item name="fanyi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fanyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fanyi" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fanyi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fanyi" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fanyi" type="b2602c69:ProjectViewProjectNode" />
@@ -167,12 +179,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503039088759</updated>
-      <workItem from="1503039103961" duration="2005000" />
+      <workItem from="1503039103961" duration="2298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2005000" />
+    <option name="totallyTimeSpent" value="2298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -266,26 +278,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manager/content_post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="35" column="53" lean-forward="false" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manager/content.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1670">
-          <caret line="252" column="10" lean-forward="true" selection-start-line="252" selection-start-column="10" selection-end-line="252" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -305,8 +301,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="257" column="25" lean-forward="true" selection-start-line="257" selection-start-column="25" selection-end-line="257" selection-end-column="25" />
+        <state relative-caret-position="180">
+          <caret line="254" column="48" lean-forward="true" selection-start-line="254" selection-start-column="48" selection-end-line="254" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="236" column="14" lean-forward="true" selection-start-line="236" selection-start-column="14" selection-end-line="236" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/content_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="57" />
           <folding />
         </state>
       </provider>
